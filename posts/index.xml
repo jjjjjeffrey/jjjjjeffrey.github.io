@@ -6,22 +6,16 @@
     <description>Recent content in Posts on Daqian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 17 May 2016 14:24:57 +0800</lastBuildDate>
     <atom:link href="http://daqian.gift/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title></title>
+      <title>怎样使用Hugo和Github创建个人博客(Mac OS)</title>
       <link>http://daqian.gift/posts/how-to-create-blog-on-github-with-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 May 2016 14:24:57 +0800</pubDate>
       
       <guid>http://daqian.gift/posts/how-to-create-blog-on-github-with-hugo/</guid>
       <description>
-
-&lt;p&gt;﻿+++
-date = &amp;ldquo;2016-05-17T13:32:39+08:00&amp;rdquo;
-draft = false
-title = &amp;ldquo;如何使用Hugo来创建博客(Mac OS)&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;+++&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;使得我们更容易的生成一套可部署在&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;上的博客系统，其简单易用的特点广受欢迎，其提供的大量主题模板可以让你的个人博客彰显个性和品位。&lt;/p&gt;
 
