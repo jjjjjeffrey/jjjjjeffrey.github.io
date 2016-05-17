@@ -23,8 +23,6 @@ title = &amp;ldquo;如何使用Hugo来创建博客(Mac OS)&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;+++&lt;/p&gt;
 
-&lt;hr /&gt;
-
 &lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;使得我们更容易的生成一套可部署在&lt;a href=&#34;https://github.com/&#34;&gt;Github&lt;/a&gt;上的博客系统，其简单易用的特点广受欢迎，其提供的大量主题模板可以让你的个人博客彰显个性和品位。&lt;/p&gt;
 
 &lt;h3 id=&#34;本地测试:dcfdd40d4e1b9b734f430a240e358717&#34;&gt;本地测试&lt;/h3&gt;
